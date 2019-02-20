@@ -1,0 +1,33 @@
+.main{
+  display: flex;
+  flex-direction: row;
+}
+.head{
+  padding: 0px 50px 20px 10px;
+  fo
+}
+.follow{
+  float: right;
+  padding:19px;
+
+}
+.follow img{
+  width: 20px;
+  height: 20px;
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  font-size: 12px;
+  align-items: center;
+}
+.navbar a{
+  color: black;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+.navbar a:hover{
+  color: blue;
+}
